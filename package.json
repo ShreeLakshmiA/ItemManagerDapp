@@ -1,0 +1,11 @@
+{
+  "name": "assignment6_2010",
+  "version": "1.0.0",
+  "description": "Please ensure you have the necessary environment set up, including Truffle and a compatible Ethereum development network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
